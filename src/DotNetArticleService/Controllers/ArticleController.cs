@@ -1,8 +1,8 @@
-﻿using CSharpArticleService.Domain.Entities;
-using CSharpArticleService.Domain.Interfaces;
+﻿using DotNetArticleService.Domain.Entities;
+using DotNetArticleService.Domain.Interfaces;
 using Microsoft.AspNetCore.Mvc;
 
-namespace CSharpArticleService.Controllers
+namespace DotNetArticleService.Controllers
 {
     [Route("api/articles")]
     [ApiController]

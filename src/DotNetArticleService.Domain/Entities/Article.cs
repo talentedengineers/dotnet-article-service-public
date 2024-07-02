@@ -1,4 +1,4 @@
-﻿namespace CSharpArticleService.Domain.Entities
+﻿namespace DotNetArticleService.Domain.Entities
 {
     public class Article
     {

@@ -1,4 +1,4 @@
-# CSharp Article Service Technical Assessment
+# .NET Article Service Technical Assessment
 
 In this technical assessment, you will implement an article service.
 
@@ -12,12 +12,12 @@ In this technical assessment, you will implement an article service.
 ### Clone Repository
 
 ```bash
-git clone https://github.com/talentedengineers/csharp-article-service-public.git
+git clone https://github.com/talentedengineers/dotnet-article-service-public.git
 ```
 
 ### Open Solution
 
-Open the solution (`src/CSharpArticleService.sln`) in Visual Studio.
+Open the solution (`src/DotNetArticleService.sln`) in Visual Studio.
 
 ### Implement
 

@@ -1,5 +1,5 @@
 
-namespace CSharpArticleService
+namespace DotNetArticleService
 {
     public class Program
     {

@@ -1,6 +1,6 @@
-﻿using CSharpArticleService.Domain.Entities;
+﻿using DotNetArticleService.Domain.Entities;
 
-namespace CSharpArticleService.Domain.Interfaces
+namespace DotNetArticleService.Domain.Interfaces
 {
     public interface IArticleService
     {
